@@ -2,9 +2,10 @@ Farbpalette
 
 Rot
 Grün
+Hellgrün
+Dunkelgrün
 Blau
 Gelb
 Magenta
-Türkis
 
 Sind alles tolle Farben.
